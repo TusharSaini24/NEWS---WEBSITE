@@ -17,3 +17,5 @@ MONGO_LOCAL =mongodb_url
 NEWS_API_URL = http://api.mediastack.com/v1/news?access_key=ACCESS_KEYcountries=us
 NEWS_API_KEYS = ACCESS_KEY
 
+9. npm run dev
+
